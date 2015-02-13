@@ -1,3 +1,2 @@
 # PullRequestTest
-Foobar
-coffee
+Hammertime
